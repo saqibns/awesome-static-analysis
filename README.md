@@ -21,6 +21,7 @@ Table of Contents
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [Perl](#perl)
 - [Python](#python)
 - [PHP](#php)
 - [R](#r)
@@ -120,6 +121,10 @@ Table of Contents
 ## Lua
 
 * [luacheck](https://github.com/mpeterv/luacheck) [OSS] -  A tool for linting and static analysis of Lua code. 
+
+## Perl
+
+* [Perl::Critic](http://search.cpan.org/~thaljef/Perl-Critic-1.126/lib/Perl/Critic.pm)[OSS] - Critique Perl source code for best-practices.
 
 ## Python
 
